@@ -1,2 +1,2 @@
-# learningjs
+# learning-js
 Learning about javascript
